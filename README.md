@@ -1,7 +1,12 @@
 <div id="header" align="center">
-  <h1> Hi there 👋 I'm Darya</h1>h1>
+  <h1> Hi there, I'm Darya</h1>
   <h3>🐍 Python Developer </h3>
+  <a href="https://t.me/@SQ_travel" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram Badge" width="40" height="40"/>
+  </a>
 </div>
+</div>
+
 • Пишу на Python, изучаю Django, FastAPI, Flask 
 • Интересуюсь автоматизацией, парсингом и API  
 
