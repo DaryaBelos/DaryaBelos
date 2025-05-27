@@ -1,4 +1,10 @@
-## Hi there 👋
+<div id="header" align="center">
+  <h1> Hi there 👋 I'm Darya</h1>h1>
+  <h3>🐍 Python Developer </h3>
+</div>
+• Пишу на Python, изучаю Django, FastAPI, Flask 
+• Интересуюсь автоматизацией, парсингом и API  
+
 
 <!--
 **DaryaBelos/DaryaBelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
