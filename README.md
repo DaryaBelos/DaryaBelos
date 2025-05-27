@@ -2,13 +2,14 @@
   <h1> Hi there, I'm Darya</h1>
   <h3>🐍 Python Developer </h3>
   <a href="https://t.me/@SQ_travel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram Badge" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-</div>
 
+### Коротко обо мне:
 • Пишу на Python, изучаю Django, FastAPI, Flask 
-• Интересуюсь автоматизацией, парсингом и API  
+• Интересуюсь автоматизацией, парсингом и API
+• Обожаю держать ноут в руках :grin:
 
 
 <!--
