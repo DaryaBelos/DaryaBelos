@@ -32,4 +32,4 @@
 <img src="https://skillicons.dev/icons?i=grafana&perline=3" title="flask" width="70" height="50"/>&nbsp;
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaryaBelos&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaryaBelos&theme=github_dark)
