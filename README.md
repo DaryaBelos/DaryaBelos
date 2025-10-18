@@ -7,7 +7,7 @@
 </div>
 
 ### Коротко обо мне:
-• Пишу на Python, изучаю Django, FastAPI, Flask
+• Пишу на Python, есть опыт в Django, FastAPI, Flask
 
 • Интересуюсь автоматизацией, парсингом и API
 
